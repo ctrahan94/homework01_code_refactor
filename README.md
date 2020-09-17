@@ -10,4 +10,4 @@ The object of the assignment was to give the page more semantic meaning as well 
 I went through the .html file and updated the div tags with tags that have semantic meaning as well as go through the .css file and consoldate the styles where I could.
 
 ### What the deployed site looks like
-![alt text](homework01_code_refactor.gif "Deployed site")
+<img src="homework01-code-refactor.png" alt="Deployed Site">
