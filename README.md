@@ -1,13 +1,18 @@
-# Homework01_Code_Refactor
+# Homework01 Code Refactor
 
-Our first homework assignment!
+## The Objective (The What)
 
-## The objective
+To ensure that Horiseon, a marketing agency, follows accessibility standards and that there code is optimized for search engines.
 
-The object of the assignment was to give the page more semantic meaning as well as making the website more accessibile to people with with disabilities, so they can access the website using assistive technologies such as video captions, screen readers, and braille keyboards.
+## The Motive (The Why)
+To ensure that people with dissabilites can access Horiseon's site using assistive technologies and so that the website can be easily found on the internet. 
 
-## How I accomplished this
-I went through the .html file and updated the div tags with tags that have semantic meaning as well as go through the .css file and consoldate the styles where I could.
+## The Solution (The How)
+I went through the html file and updated the title and replaced most of the div tags with tags that have more semantic meaning (i.e. header, nav, main, section, aside and footer). I put notes in the html to help in indentifying the changes that I made. I also went through and consoldated some of the css so that it would not be so cluttered.
 
 ### What the deployed site looks like
 <img src="homework01_code_refactor.gif" alt="Deployed Site">
+
+link to site: https://ctrahan94.github.io/homework01_code_refactor/
+
+link to repo: https://github.com/ctrahan94/homework01_code_refactor
