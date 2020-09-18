@@ -2,7 +2,7 @@
 
 ## The Objective (The What)
 
-To ensure that Horiseon, a marketing agency, follows accessibility standards and that there code is optimized for search engines.
+To ensure that Horiseon, a marketing agency, follows accessibility standards and that their code is optimized for search engines.
 
 ## The Motive (The Why)
 To ensure that people with dissabilites can access Horiseon's site using assistive technologies and so that the website can be easily found on the internet. 
