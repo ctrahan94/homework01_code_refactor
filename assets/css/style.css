@@ -1,14 +1,16 @@
+/* Includes padding and margin to the whole web page. */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Changed the background color */
 body {
     background-color: #d9dcd6;
 }
 
-/* These styles affect the header */
+/* Styling for header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -63,6 +65,7 @@ p {
     background-position: center;
 }
 
+/* Styling for main */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -79,7 +82,7 @@ p {
     margin-left: 20px;
 }
 
-/* Styles the bar to the right of the page */
+/* Styling for aside */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -126,6 +129,7 @@ p {
     font-size: 36px;
 }
 
+/* Styling for footer */
 .footer {
     padding: 30px;
     clear: both;
